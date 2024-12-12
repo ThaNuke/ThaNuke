@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @ThaNuke
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Welcome to my GitHub profile! I'm a passionate and driven Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), currently in my third year of exploring the fascinating world of technology and innovation
-<!---
-ThaNuke/ThaNuke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm @ThaNuke
+Welcome to my GitHub profile!
+I’m a passionate and driven Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), currently in my third year, exploring the fascinating world of technology and innovation. 🚀
+
+🔭 Currently working on:
+Software development projects using various technologies.
+Machine learning models for image classification.
+Web development with React and building interactive features.
+🌱 Learning:
+Test-Driven Development (TDD) and Unit Testing.
+Data structures and algorithms.
+React and Node.js for full-stack development.
+💬 Ask me about:
+Computer Engineering topics.
+Software development best practices.
+Machine Learning and AI.
+📫 How to reach me:
+Email: [your-email@example.com]
+LinkedIn: [Your LinkedIn Profile]
