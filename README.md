@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I've been learning React and Tailwindcss.
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [Profolio](http://profilenuke.netlify.app)
+* 🖥️  See my portfolio at [Profolio](https://profile22.netlify.app/)
 * ✉️  You can contact me at [grrhkm72@gmailc.om](mailto:grrhkm72@gmailc.om)
 
 ### Skills
