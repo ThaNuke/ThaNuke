@@ -5,7 +5,7 @@ I've been learning React and Tailwindcss.
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [Profolio](http://last1profile.netlify.app)
-* ✉️  You can contact me at [grrhkm72@gmailc.om](mailto:grrhkm72@gmail.com)
+* ✉️  You can contact me at [grrhkm72@gmail.com](mailto:grrhkm72@gmail.com)
 
 ### Skills
 
